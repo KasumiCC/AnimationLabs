@@ -14,6 +14,6 @@ files:
 
 two blender files, one for keyframing, the other formotion capture
 mocap source files
+videos 
 presentation slides: https://docs.google.com/presentation/d/1GRwmprLvllyvLKlBRhuzUMTqhGhed97G6jnAgcsu1wo/edit?usp=sharing
-video link:
 documentation link: https://krischen.eva9.net/2023/02/13/ta-lab1-documentation/ 
